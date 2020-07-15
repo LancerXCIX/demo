@@ -1,7 +1,7 @@
 {
   "buchungen": [
-    { "key": 1, "start": "15.07.2020 10:00:00", "end": "16.07.2020 11:00:00", "name": "Matthes Poebler", "licplate": "DD:RD-1555"},
-    { "key": 2, "start": "14.07.2020 10:00:00", "end": "15.07.2020 11:00:00", "name": "Marvin Poebler", "licplate": "DD:RD-1335"},
-    { "key": 3, "start": "15.07.2020 10:00:00", "end": "16.07.2020 12:30:00", "name": "Marhes Poebler", "licplate": "DD:RD-255"}
+    { "id": 1, "start": "15.07.2020 10:00:00", "end": "16.07.2020 11:00:00", "name": "Matthes Poebler", "licplate": "DD:RD-1555"},
+    { "id": 2, "start": "14.07.2020 10:00:00", "end": "15.07.2020 11:00:00", "name": "Marvin Poebler", "licplate": "DD:RD-1335"},
+    { "id": 3, "start": "15.07.2020 10:00:00", "end": "16.07.2020 12:30:00", "name": "Marhes Poebler", "licplate": "DD:RD-255"}
     ]
 }
