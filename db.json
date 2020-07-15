@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "buchungen": [
+    { "key": 1, "start": "15.07.2020 10:00:00", "end": "16.07.2020 11:00:00", "name": "Matthes Poebler", "licplate": "DD:RD-1555"},
+    { "key": 2, "start": "14.07.2020 10:00:00", "end": "15.07.2020 11:00:00", "name": "Marvin Poebler", "licplate": "DD:RD-1335"},
+    { "key": 3, "start": "15.07.2020 10:00:00", "end": "16.07.2020 12:30:00", "name": "Marhes Poebler", "licplate": "DD:RD-255"},
 }
