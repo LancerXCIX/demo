@@ -18,9 +18,6 @@
     {"von":"22.05.2019 15:12","bis":"24.05.2019 15:12","ziel":"Dresden","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"},
     {"von":"25.03.2019 10:29","bis":"27.03.2019 10:29","ziel":"Buxtehude","kennzeichen":"DD RD5232","fahrer":"Fels, Tom"},
     {"von":"28.05.2019 15:15","bis":"30.05.2019 15:15","ziel":"Berlin","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"}],
-  "hasMore":false,
-  "limit":25,
-  "offset":0,
   "count":17,
   "links":[
     {"rel":"self","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},
