@@ -20,6 +20,7 @@
     {"von":"28.05.2019 15:15","bis":"30.05.2019 15:15","ziel":"Berlin","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"}],
   "hasMore":false,
   "limit":25,
+  "offset":0,
   "count":17,
   "links":[
     {"rel":"self","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},
