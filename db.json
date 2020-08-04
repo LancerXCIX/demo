@@ -1,7 +1,7 @@
 
 {
   "items":[
-    {"von":"2020-08-04 00:20","bis":"2020-08-05 10:30","ziel":"Frankfurt","kennzeichen":"DD RD4231","fahrer":"Maier, Sylvia"},
+    {"von":"2020-08-04 00:20:00","bis":"2020-08-05 10:30:00","ziel":"Frankfurt","kennzeichen":"DD RD4231","fahrer":"Maier, Sylvia"},
     {"von":"07.01.2019 12:13","bis":"08.01.2019 12:13","ziel":"Dresden","kennzeichen":"DD RD5210","fahrer":"Knechtel, Ronny"},
     {"von":"07.01.2020 16:50","bis":"09.01.2020 16:50","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
     {"von":"07.04.2020 11:04","bis":"09.04.2020 11:04","ziel":"Dresden","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
