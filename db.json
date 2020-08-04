@@ -1,2 +1,29 @@
 
-{"items":[{"von":"01.02.2019 00:00","bis":"03.02.2019 00:00","ziel":"-","kennzeichen":"DD RD4231","fahrer":"Maier, Sylvia"},{"von":"07.01.2019 12:13","bis":"08.01.2019 12:13","ziel":"Dresden","kennzeichen":"DD RD5210","fahrer":"Knechtel, Ronny"},{"von":"07.01.2020 16:50","bis":"09.01.2020 16:50","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},{"von":"07.04.2020 11:04","bis":"09.04.2020 11:04","ziel":"Dresden","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},{"von":"08.01.2019 08:33","bis":"18.01.2019 08:33","ziel":"Testenhausen","kennzeichen":"DD RD5237","fahrer":"Fels, Tom"},{"von":"08.01.2019 12:09","bis":"10.01.2019 12:09","ziel":"Altenberg","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},{"von":"09.01.2020 17:00","bis":"10.01.2020 16:50","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},{"von":"11.04.2020 11:05","bis":"13.04.2020 11:05","ziel":"Kindervilla","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},{"von":"12.07.2020 14:39","bis":"13.07.2020 14:39","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},{"von":"14.07.2020 12:33","bis":"18.07.2020 12:33","ziel":"Egal","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},{"von":"17.05.2019 14:38","bis":"22.05.2019 14:38","ziel":"Dresden","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},{"von":"20.05.2019 14:13","bis":"22.05.2019 14:13","ziel":"Dresden","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"},{"von":"21.05.2019 14:32","bis":"25.05.2019 14:32","ziel":"Dresden","kennzeichen":"DD RD5230","fahrer":"Zerndt, Axel"},{"von":"21.05.2019 14:40","bis":"29.05.2019 14:40","ziel":"DD","kennzeichen":"DD RD5237","fahrer":"Zerndt, Axel"},{"von":"22.05.2019 15:12","bis":"24.05.2019 15:12","ziel":"Dresden","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"},{"von":"25.03.2019 10:29","bis":"27.03.2019 10:29","ziel":"Buxtehude","kennzeichen":"DD RD5232","fahrer":"Fels, Tom"},{"von":"28.05.2019 15:15","bis":"30.05.2019 15:15","ziel":"Berlin","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"}],"hasMore":false,"limit":25,"offset":0,"count":17,"links":[{"rel":"self","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},{"rel":"edit","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},{"rel":"describedby","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/metadata-catalog/Buchungen/item"},{"rel":"first","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"}]}
+{
+  "items":[
+    {"von":"01.02.2019 00:00","bis":"03.02.2019 00:00","ziel":"-","kennzeichen":"DD RD4231","fahrer":"Maier, Sylvia"},
+    {"von":"07.01.2019 12:13","bis":"08.01.2019 12:13","ziel":"Dresden","kennzeichen":"DD RD5210","fahrer":"Knechtel, Ronny"},
+    {"von":"07.01.2020 16:50","bis":"09.01.2020 16:50","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
+    {"von":"07.04.2020 11:04","bis":"09.04.2020 11:04","ziel":"Dresden","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
+    {"von":"08.01.2019 08:33","bis":"18.01.2019 08:33","ziel":"Testenhausen","kennzeichen":"DD RD5237","fahrer":"Fels, Tom"},
+    {"von":"08.01.2019 12:09","bis":"10.01.2019 12:09","ziel":"Altenberg","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},
+    {"von":"09.01.2020 17:00","bis":"10.01.2020 16:50","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
+    {"von":"11.04.2020 11:05","bis":"13.04.2020 11:05","ziel":"Kindervilla","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},
+    {"von":"12.07.2020 14:39","bis":"13.07.2020 14:39","ziel":"DD","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
+    {"von":"14.07.2020 12:33","bis":"18.07.2020 12:33","ziel":"Egal","kennzeichen":"DD RD4231","fahrer":"Fels, Tom"},
+    {"von":"17.05.2019 14:38","bis":"22.05.2019 14:38","ziel":"Dresden","kennzeichen":"DD RD4231","fahrer":"Zerndt, Axel"},
+    {"von":"20.05.2019 14:13","bis":"22.05.2019 14:13","ziel":"Dresden","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"},
+    {"von":"21.05.2019 14:32","bis":"25.05.2019 14:32","ziel":"Dresden","kennzeichen":"DD RD5230","fahrer":"Zerndt, Axel"},
+    {"von":"21.05.2019 14:40","bis":"29.05.2019 14:40","ziel":"DD","kennzeichen":"DD RD5237","fahrer":"Zerndt, Axel"},
+    {"von":"22.05.2019 15:12","bis":"24.05.2019 15:12","ziel":"Dresden","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"},
+    {"von":"25.03.2019 10:29","bis":"27.03.2019 10:29","ziel":"Buxtehude","kennzeichen":"DD RD5232","fahrer":"Fels, Tom"},
+    {"von":"28.05.2019 15:15","bis":"30.05.2019 15:15","ziel":"Berlin","kennzeichen":"DD RD5236","fahrer":"Zerndt, Axel"}],
+  "hasMore":false,
+  "limit":25,
+  "count":17,
+  "links":[
+    {"rel":"self","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},
+    {"rel":"edit","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"},
+    {"rel":"describedby","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/metadata-catalog/Buchungen/item"},
+    {"rel":"first","href":"https://ptlentwapp.robotron.de/orge-apex/fuhrpark/Buchungen/KFZ"}]
+}
